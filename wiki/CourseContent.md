@@ -80,7 +80,6 @@ title: Course Content
 # Benefits / Challenges 
 
 <!--OpenAI releases enterprise-grade version of ChatGPT - The Verge
-
 summarize the patent described here: https://patents.google.com/patent/US10928195B2
  -->
 
@@ -102,7 +101,6 @@ summarize the patent described here: https://patents.google.com/patent/US1092819
 - And then it confess about its mistake before it corrects it.
 
 ![Alt text](image-2.png)
-
 
 
 ## Links

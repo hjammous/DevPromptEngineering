@@ -3,10 +3,7 @@ redirect_from: "/"
 title: Course Content
 ---
 
-
-
 # Upskilling Equinor Personnel on Prompt Engineering tools / AI
-
 
 - **Introduction to AI/ML**: This topic will cover the basics of AI, history, and applications in various industries, including engineering, but specifically for O/G
 - **Data is Centric**: Whether we use a model-based, data driven or hybrid methods, it is important to leverage system data to gain knowledge of the system and make educated choices for product and process improvements. 
@@ -14,7 +11,9 @@ title: Course Content
 - **AI in Engineering**, Design and Development: This topic will cover the applications of AI in design and development, including generative design, simulation, and optimization. Also covering aspects of predictive maintenance, quality control and process optimization
 - **Prompt** **Engineering** for Equinor: How can we leverage AI tools to help with daily on the job tasks? ChatGPT as an example
 
+
 # LLM examples and concept
+- LLM stands for Large Language Model
 - Public chat tool : https://chat.openai.com
 - Equinor Internal tool: Chatbot UI - https://main-equinor-chat-prod.radix.equinor.com/
 
@@ -26,8 +25,6 @@ title: Course Content
   - **What is prompt?** It s a message/input/cue that the LLM can leverage from the user to remember/build upon to formulate an interactive response
   - **Pattern of the prompt** is important: This sets the context, gives specificity, or direction how the output will be tailored and framed. Generic prompts will give more generic answers that may or may not be scoped enough
   - **The persona pattern**: ability of the model to generate responses consistent with particular persona or style, such as requesting a deep detailed, general info, specific language in industry, etc… 
-
-
 
 # Prompt Engineering for Equinor:
 - How can we leverage AI tools to help with daily on the job tasks? **ChatGPT a strong enabler**
@@ -48,6 +45,7 @@ title: Course Content
 - Industry-Specific Applications: Provide examples of how ChatGPT can be used within the oil and gas industry, such as for reservoir modeling, drilling optimization, and pipeline monitoring.
 - Data Analysis and Visualization: Teach how to use ChatGPT to analyze and visualize data, including how to create charts, graphs, and maps.
 - Collaboration and Knowledge Sharing: Teach how to use ChatGPT for collaboration and knowledge sharing within the company, such as sharing best practices, lessons learned, and success stories.
+
 # ChatGPT for Advanced Level Users
 - Customization and Integration: Teach how to customize and integrate ChatGPT with other tools and systems within the company, such as data management systems, analytics platforms, and workflow automation tools.
 - AI and Machine Learning: Teach how ChatGPT uses AI and machine learning algorithms to improve its performance and accuracy, and how to use these algorithms to develop custom solutions for the company.
@@ -104,61 +102,8 @@ summarize the patent described here: https://patents.google.com/patent/US1092819
 - And then it confess about its mistake before it corrects it.
 
 ![Alt text](image-2.png)
-<!-- ## Headings
-
-You can use headings to structure your content:
-
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
 
 
-
-## Text Formatting
-
-You can use various text formatting options in Markdown:
-
-- **Bold**
-- *Italic*
-- ~~Strikethrough~~
-
-## Lists
-
-You can create ordered and unordered lists in Markdown:
-
-### Ordered List
-
-1. First item
-2. Second item
-3. Third item
-
-### Unordered List
-
-- First item
-- Second item
-- Third item
-
-### Nested List
-
-- First item
-  - First nested item
-  - Second nested item
-- Second item
-  - First nested item
-  - Second nested item
-
-## Images
-
-You can include images in Markdown using the following syntax:
-
-![Alt text](/path/to/image.jpg "Optional title")
-
-Here's an example image:
-
-![Example Image](https://via.placeholder.com/150 "Example Image")
 
 ## Links
 
@@ -183,7 +128,9 @@ You can include code blocks in Markdown using the following syntax:
 ```python
 def greet(name):
     print(f"Hello, {name}!")
+```
+
+Add Interpretation
 
 greet("Alice")
 
-no toc -->

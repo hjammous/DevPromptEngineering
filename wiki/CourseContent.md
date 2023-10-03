@@ -1,6 +1,6 @@
 ---
 redirect_from: "/"
-title: MD File 1
+title: Course Content
 ---
 
 

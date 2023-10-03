@@ -3,7 +3,7 @@ redirect_from: "/"
 ---
 
 
-# Advanced Markdown Template 2
+# Advanced Markdown Template - File 2
 
 This is an advanced Markdown template that includes a variety of features and elements.
 

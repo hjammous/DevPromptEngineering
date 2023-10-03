@@ -1,3 +1,7 @@
+---
+redirect_from: "/"
+---
+
 
 # Advanced Markdown Template 2
 

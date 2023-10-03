@@ -1,5 +1,6 @@
 ---
 redirect_from: "/"
+title: MD File 2
 ---
 
 

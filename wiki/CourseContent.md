@@ -3,6 +3,8 @@ redirect_from: "/"
 title: Course Content
 ---
 
+Empty File - Remove Comments :)
+<!-- 
 # Upskilling Equinor Personnel on Prompt Engineering tools / AI
 
 - **Introduction to AI/ML**: This topic will cover the basics of AI, history, and applications in various industries, including engineering, but specifically for O/G
@@ -132,3 +134,4 @@ Add Interpretation
 
 greet("Alice")
 
+-->

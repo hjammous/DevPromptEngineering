@@ -4,8 +4,7 @@ title: Course Content
 ---
 
 Empty File - Remove Comments :)
-<!-- 
-# Upskilling Equinor Personnel on Prompt Engineering tools / AI
+<!--  # Upskilling Equinor Personnel on Prompt Engineering tools / AI
 
 - **Introduction to AI/ML**: This topic will cover the basics of AI, history, and applications in various industries, including engineering, but specifically for O/G
 - **Data is Centric**: Whether we use a model-based, data driven or hybrid methods, it is important to leverage system data to gain knowledge of the system and make educated choices for product and process improvements. 

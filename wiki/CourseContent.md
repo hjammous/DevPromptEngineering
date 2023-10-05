@@ -56,8 +56,11 @@ Empty File - Remove Comments :)
 
 # Multiple Applications
 
+-->
+
 <!--How companies are putting embedded genAI to good use | Computerworld -->
 
+<!--
 - Embedded generative AI is being used in various industries.
 - Embedded generative AI involves using AI algorithms to generate new content or designs based on existing data.
 - In the automotive industry, embedded generative AI can be used to design and optimize car parts and components.
@@ -70,8 +73,12 @@ Empty File - Remove Comments :)
 
 # What does it entail? 
 
+-->
+
+
 <!--How to train your chatbot through prompt engineering | Computerworld -->
 
+<!--
 - Key issue : Prompt engineering in training chatbots.
 - Prompt engineering involves crafting prompts that produce specific responses from the chatbot.
 - Effective prompts use natural language, provide context, and avoid ambiguity.
@@ -81,10 +88,12 @@ Empty File - Remove Comments :)
 
 # Benefits / Challenges 
 
+-->
 <!--OpenAI releases enterprise-grade version of ChatGPT - The Verge
 summarize the patent described here: https://patents.google.com/patent/US10928195B2
  -->
 
+<!--
 - ChatGPT is a language model developed by OpenAI that can generate human-like responses to text-based queries.
 - In its enterprise-grade version, it is designed to meet the needs of businesses and organizations.
 - This version includes features such as improved performance, enhanced security, and customizable training data.

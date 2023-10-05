@@ -1,7 +1,7 @@
 # (string) Title of your wiki
-title: "Prompt Engineering using LLMs - Equinor ChatGPT"
+title: "Prompt Engineering - ChatGPT"
 # (string) Description of your wiki
-description: "Recommendations and best practices to improve and raise awareness about LLM capabilities leveraging ChatGpt "
+description: "Recommendations and best practices to improve and raise awareness about Large Language Models capabilities leveraging ChatGpt "
 # (boolean) disable edit functionalities (edit/delete/add pages)
 disable_edit: true
 # (boolean) Enable/disable wiki page list in sidebar
